@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/demo-cordeli-re/static/css/main.14d3c069.css",
+    "main.js": "/demo-cordeli-re/static/js/main.7211141a.js",
+    "static/js/787.d50b1acf.chunk.js": "/demo-cordeli-re/static/js/787.d50b1acf.chunk.js",
+    "static/media/clip-cta.mp4": "/demo-cordeli-re/static/media/clip-cta.f2937093e6b05c1b2690.mp4",
+    "static/media/cours.png": "/demo-cordeli-re/static/media/cours.fe4f1b8293cfe8775d79.png",
+    "static/media/abonnement.png": "/demo-cordeli-re/static/media/abonnement.a4f365008d5e76de6f8f.png",
+    "static/media/green-fee.jpg": "/demo-cordeli-re/static/media/green-fee.0d7ca81c19cdc45b387b.jpg",
+    "static/media/logo.png": "/demo-cordeli-re/static/media/logo.b844ffb5d399d558448f.png",
+    "static/media/french-flag.png": "/demo-cordeli-re/static/media/french-flag.011d074ce0d2167e9d3b.png",
+    "index.html": "/demo-cordeli-re/index.html",
+    "main.14d3c069.css.map": "/demo-cordeli-re/static/css/main.14d3c069.css.map",
+    "main.7211141a.js.map": "/demo-cordeli-re/static/js/main.7211141a.js.map",
+    "787.d50b1acf.chunk.js.map": "/demo-cordeli-re/static/js/787.d50b1acf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14d3c069.css",
+    "static/js/main.7211141a.js"
+  ]
+}
